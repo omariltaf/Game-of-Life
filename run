@@ -1,0 +1,3 @@
+# Omar Iltaf
+javac GameOfLife.java
+java GameOfLife
